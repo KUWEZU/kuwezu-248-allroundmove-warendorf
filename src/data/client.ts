@@ -1,6 +1,6 @@
 /**
  * client.ts — Automatisch generiert von KUWEZU
- * Erstellt: 2026-07-19T17:21:38.382Z
+ * Erstellt: 2026-07-19T17:26:53.723Z
  * Kundennummer: 248
  *
  * Alle Texte, Bilder und Einstellungen werden hier gepflegt.
@@ -18,7 +18,7 @@ export const client = {
   email: "",
   website: "",
   logo: "https://r2.kuwezu.de/cdn-cgi/image/width=320,fit=contain,quality=78,format=auto/konzepte/autofit/autofit_logo.webp",
-  standort_bild: "https://r2.kuwezu.de/kunden/248/standort.webp",
+  standort_bild: "https://r2.kuwezu.de/cdn-cgi/image/width=1024,fit=cover,quality=78,format=auto/kunden/248/standort.webp",
 
   // ── Branding ───────────────────────────────────────────────────────────────
   farben: {
@@ -28,8 +28,8 @@ export const client = {
   },
   // ── Hero ───────────────────────────────────────────────────────────────────
   hero: {
-    bild: "https://r2.kuwezu.de/kunden/248/hero.webp",
-    bildSrcset: "",
+    bild: "https://r2.kuwezu.de/cdn-cgi/image/width=1600,fit=cover,quality=78,format=auto/kunden/248/hero.webp",
+    bildSrcset: "https://r2.kuwezu.de/cdn-cgi/image/width=768,fit=cover,quality=78,format=auto/kunden/248/hero.webp 768w, https://r2.kuwezu.de/cdn-cgi/image/width=1280,fit=cover,quality=78,format=auto/kunden/248/hero.webp 1280w, https://r2.kuwezu.de/cdn-cgi/image/width=1920,fit=cover,quality=78,format=auto/kunden/248/hero.webp 1920w",
     bildSizes: "100vw",
     overlayOpacity: 0.55, /* fix — nie schwächer, nie überschreibbar */
     ueberschrift: " — professionell & zuverlässig",
@@ -41,8 +41,8 @@ export const client = {
 
   // ── Über uns ───────────────────────────────────────────────────────────────
   ueberUns: {
-    bild: "https://r2.kuwezu.de/kunden/248/1784450684296-oldtimer_lenkrad.jpg",
-    bildSrcset: "",
+    bild: "https://r2.kuwezu.de/cdn-cgi/image/width=1280,fit=cover,quality=78,format=auto/kunden/248/1784450684296-oldtimer_lenkrad.jpg",
+    bildSrcset: "https://r2.kuwezu.de/cdn-cgi/image/width=640,fit=cover,quality=78,format=auto/kunden/248/1784450684296-oldtimer_lenkrad.jpg 640w, https://r2.kuwezu.de/cdn-cgi/image/width=1024,fit=cover,quality=78,format=auto/kunden/248/1784450684296-oldtimer_lenkrad.jpg 1024w, https://r2.kuwezu.de/cdn-cgi/image/width=1536,fit=cover,quality=78,format=auto/kunden/248/1784450684296-oldtimer_lenkrad.jpg 1536w",
     bildSizes: "(max-width: 1024px) 100vw, 50vw",
     ueberschrift: "AllroundMove — Ihr Partner in Warendorf",
     text1: "Als erfahrener -Betrieb in Warendorf bieten wir unseren Kunden seit Jahren zuverlässigen Service und kompetente Beratung. Mit Fachkompetenz und modernen Methoden lösen wir Ihre Anliegen effizient und zuverlässig.",
@@ -56,24 +56,24 @@ export const client = {
     {
       slug: "hu-au",
       title: "HU/AU",
-      bild: "https://r2.kuwezu.de/bibliothek/HU/AU/1777878273976-leistung_tu_v.webp",
-      bildSrcset: "",
+      bild: "https://r2.kuwezu.de/cdn-cgi/image/width=800,fit=cover,quality=78,format=auto/bibliothek/HU/AU/1777878273976-leistung_tu_v.webp",
+      bildSrcset: "https://r2.kuwezu.de/cdn-cgi/image/width=400,fit=cover,quality=78,format=auto/bibliothek/HU/AU/1777878273976-leistung_tu_v.webp 400w, https://r2.kuwezu.de/cdn-cgi/image/width=800,fit=cover,quality=78,format=auto/bibliothek/HU/AU/1777878273976-leistung_tu_v.webp 800w",
       description: "Professionelle HU/AU — schnell, zuverlässig und zu fairen Preisen.",
       highlights: ["Qualität", "Zuverlässigkeit", "Faire Preise"],
     },
     {
       slug: "klimaservice",
       title: "Klimaservice",
-      bild: "https://r2.kuwezu.de/bibliothek/Klimaservice/1777878264706-klimaanlagen-service.webp",
-      bildSrcset: "",
+      bild: "https://r2.kuwezu.de/cdn-cgi/image/width=800,fit=cover,quality=78,format=auto/bibliothek/Klimaservice/1777878264706-klimaanlagen-service.webp",
+      bildSrcset: "https://r2.kuwezu.de/cdn-cgi/image/width=400,fit=cover,quality=78,format=auto/bibliothek/Klimaservice/1777878264706-klimaanlagen-service.webp 400w, https://r2.kuwezu.de/cdn-cgi/image/width=800,fit=cover,quality=78,format=auto/bibliothek/Klimaservice/1777878264706-klimaanlagen-service.webp 800w",
       description: "Professionelle Klimaservice — schnell, zuverlässig und zu fairen Preisen.",
       highlights: ["Qualität", "Zuverlässigkeit", "Faire Preise"],
     },
     {
       slug: "karosserie",
       title: "Karosserie",
-      bild: "https://r2.kuwezu.de/bibliothek/Karosserie/1777878013146-leistung_karosserie.webp",
-      bildSrcset: "",
+      bild: "https://r2.kuwezu.de/cdn-cgi/image/width=800,fit=cover,quality=78,format=auto/bibliothek/Karosserie/1777878013146-leistung_karosserie.webp",
+      bildSrcset: "https://r2.kuwezu.de/cdn-cgi/image/width=400,fit=cover,quality=78,format=auto/bibliothek/Karosserie/1777878013146-leistung_karosserie.webp 400w, https://r2.kuwezu.de/cdn-cgi/image/width=800,fit=cover,quality=78,format=auto/bibliothek/Karosserie/1777878013146-leistung_karosserie.webp 800w",
       description: "Professionelle Karosserie — schnell, zuverlässig und zu fairen Preisen.",
       highlights: ["Qualität", "Zuverlässigkeit", "Faire Preise"],
     }
