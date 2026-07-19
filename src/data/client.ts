@@ -1,6 +1,6 @@
 /**
  * client.ts — Automatisch generiert von KUWEZU
- * Erstellt: 2026-07-19T07:13:56.319Z
+ * Erstellt: 2026-07-19T08:45:37.440Z
  * Kundennummer: 248
  *
  * Alle Texte, Bilder und Einstellungen werden hier gepflegt.
@@ -39,7 +39,7 @@ export const client = {
 
   // ── Über uns ───────────────────────────────────────────────────────────────
   ueberUns: {
-    bild: "https://r2.kuwezu.de/kunden/248/ueber-uns.webp",
+    bild: "https://r2.kuwezu.de/kunden/248/1784450684296-oldtimer_lenkrad.jpg",
     ueberschrift: "AllroundMove — Ihr Partner in Warendorf",
     text1: "Als erfahrener -Betrieb in Warendorf bieten wir unseren Kunden seit Jahren zuverlässigen Service und kompetente Beratung. Mit Fachkompetenz und modernen Methoden lösen wir Ihre Anliegen effizient und zuverlässig.",
     text2: "Wir setzen auf höchste Qualität, transparente Preise und persönlichen Service — damit Sie rundum zufrieden sind.",
