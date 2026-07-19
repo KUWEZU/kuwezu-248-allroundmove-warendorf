@@ -1,6 +1,6 @@
 /**
  * client.ts — Automatisch generiert von KUWEZU
- * Erstellt: 2026-07-19T20:01:46.864Z
+ * Erstellt: 2026-07-19T20:07:25.099Z
  * Kundennummer: 248
  *
  * Alle Texte, Bilder und Einstellungen werden hier gepflegt.
@@ -13,7 +13,7 @@ export const client = {
   ort: "Warendorf",
   slogan: "professionell & zuverlässig",
   adresse: "Musterstraße 1",
-  maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJjblDk4ebuUcRMWbnDAR7K2s",
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Musterstra%C3%9Fe%201%2C%20Warendorf",
   telefon: "+49 2581 000000",
   email: "info@musterwerkstatt-demo.de",
   website: "",
