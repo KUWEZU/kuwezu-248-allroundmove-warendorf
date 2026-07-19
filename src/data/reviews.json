@@ -1,39 +1,7 @@
 {
-  "averageRating": 5,
-  "totalCount": 21,
+  "averageRating": null,
+  "totalCount": 0,
   "source": "Google",
-  "fetchedAt": "2026-07-19T07:12:41.689Z",
-  "reviews": [
-    {
-      "author": "Rica Wo",
-      "rating": 5,
-      "text": "Seit kurzem betreut diese Gärtnerei unsere Firmenanlage und wir sind sehr zufrieden. Die Arbeiten werden zuverlässig, sorgfältig und professionell ausgeführt. Die Kommunikation verläuft unkompliziert und freundlich, Termine werden eingehalten. Vielen Dank!",
-      "date": "vor 2 Monaten"
-    },
-    {
-      "author": "sinem zilic",
-      "rating": 5,
-      "text": "Ich bin absolut begeistert von dem Hecken- und Gartenservice von AllroundMove in Warendorf! Der Heckenschnitt wurde schnell, zuverlässig und mit hoher Präzision durchgeführt. Es war wirklich beeindruckend, wie zügig und professionell das Team gearbeitet hat. Und das Beste: Der Preis war super günstig für die Qualität der Arbeit! Ich kann AllroundMove nur wärmstens empfehlen, wenn man auf der Suche nach einem zuverlässigen und effizienten Service ist. Jederzeit wieder!",
-      "date": "vor einem Jahr"
-    },
-    {
-      "author": "Aysun Al",
-      "rating": 5,
-      "text": "Ich bin absolut begeistert von der Terrassenreinigung durch AllroundMove. Meine Terrasse sah nach Jahren der Nutzung und Witterungseinflüssen ziemlich unansehnlich aus. Das Team von AllroundMove hat sie in kürzester Zeit wieder in einen neuwertigen Zustand versetzt. Die Mitarbeiter waren pünktlich, professionell und äußerst gründlich. Ich kann AllroundMove jedem empfehlen, der Wert auf Qualität und Zuverlässigkeit legt. Vielen Dank für den hervorragenden Service!",
-      "date": "vor einem Jahr"
-    },
-    {
-      "author": "Dibe Al Toufaili",
-      "rating": 5,
-      "text": "Wir haben in Warendorf Rollrasen verlegen lassen und sind absolut begeistert! Der Service war schnell, zuverlässig und professionell. Das Team war zudem sehr nett und hat sauber gearbeitet. Der neue Rasen sieht einfach perfekt aus – eine klare Empfehlung! Vielen Dank für die tolle Arbeit!",
-      "date": "vor einem Jahr"
-    },
-    {
-      "author": "Mohamad Al abdou",
-      "rating": 5,
-      "text": "Ich habe den Hausmeisterservice von AllroundMove in Anspruch genommen und bin absolut begeistert! Das Team arbeitet äußerst zuverlässig, professionell und mit viel Sorgfalt. Alle vereinbarten Arbeiten wurden schnell und einwandfrei erledigt. Besonders beeindruckt hat mich die freundliche Kommunikation und die Flexibilität des Teams. Preis-Leistungs-Verhältnis ist top! Ich kann AllroundMove uneingeschränkt weiterempfehlen und werde den Service definitiv wieder nutzen.\n\nVielen Dank für die großartige Arbeit!",
-      "date": "vor einem Jahr"
-    }
-  ],
-  "_debug": "gmb-import"
+  "fetchedAt": "",
+  "reviews": []
 }
