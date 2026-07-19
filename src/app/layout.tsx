@@ -34,11 +34,8 @@ export const metadata: Metadata = {
     description: "AllroundMove in Warendorf — Ihr Experte für HU/AU, Klimaservice, Karosserie und mehr. Jetzt Termin vereinbaren!",
   },
   icons: {
-    icon: [
-      { url: "https://r2.kuwezu.de/cdn-cgi/image/width=32,height=32,fit=pad,background=%23ffffff,format=png/konzepte/autofit/autofit_logo.webp", sizes: "32x32", type: "image/png" },
-      { url: "https://r2.kuwezu.de/konzepte/autofit/autofit_logo.webp" },
-    ],
-    apple: [{ url: "https://r2.kuwezu.de/cdn-cgi/image/width=180,height=180,fit=pad,background=%23ffffff,format=png/konzepte/autofit/autofit_logo.webp", sizes: "180x180", type: "image/png" }],
+    icon: [{ url: "https://r2.kuwezu.de/cdn-cgi/image/width=320,fit=contain,quality=78,format=auto/konzepte/autofit/autofit_logo.webp" }],
+    apple: [{ url: "https://r2.kuwezu.de/cdn-cgi/image/width=320,fit=contain,quality=78,format=auto/konzepte/autofit/autofit_logo.webp" }],
   },
 };
 
