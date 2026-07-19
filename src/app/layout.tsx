@@ -20,18 +20,18 @@ const geistSans = Geist({
 const COOKIE_CONSENT_REQUIRED: boolean = false;
 
 export const metadata: Metadata = {
-  title: "AllroundMove |  in Warendorf",
-  description: "AllroundMove in Warendorf — Ihr Experte für HU/AU, Klimaservice, Karosserie und mehr. Jetzt Termin vereinbaren!",
+  title: "Musterwerkstatt Demo GmbH |  in Warendorf",
+  description: "Musterwerkstatt Demo GmbH in Warendorf — Ihr Experte für HU/AU, Klimaservice, Karosserie und mehr. Jetzt Termin vereinbaren!",
   openGraph: {
-    title: "AllroundMove |  in Warendorf",
-    description: "AllroundMove in Warendorf — Ihr Experte für HU/AU, Klimaservice, Karosserie und mehr. Jetzt Termin vereinbaren!",
+    title: "Musterwerkstatt Demo GmbH |  in Warendorf",
+    description: "Musterwerkstatt Demo GmbH in Warendorf — Ihr Experte für HU/AU, Klimaservice, Karosserie und mehr. Jetzt Termin vereinbaren!",
     type: "website",
     locale: "de_DE",
   },
   twitter: {
     card: "summary_large_image",
-    title: "AllroundMove |  in Warendorf",
-    description: "AllroundMove in Warendorf — Ihr Experte für HU/AU, Klimaservice, Karosserie und mehr. Jetzt Termin vereinbaren!",
+    title: "Musterwerkstatt Demo GmbH |  in Warendorf",
+    description: "Musterwerkstatt Demo GmbH in Warendorf — Ihr Experte für HU/AU, Klimaservice, Karosserie und mehr. Jetzt Termin vereinbaren!",
   },
   icons: {
     icon: [{ url: "https://r2.kuwezu.de/cdn-cgi/image/width=320,fit=contain,quality=78,format=auto/konzepte/autofit/autofit_logo.webp" }],

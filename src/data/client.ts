@@ -1,6 +1,6 @@
 /**
  * client.ts — Automatisch generiert von KUWEZU
- * Erstellt: 2026-07-19T17:26:53.723Z
+ * Erstellt: 2026-07-19T20:01:46.864Z
  * Kundennummer: 248
  *
  * Alle Texte, Bilder und Einstellungen werden hier gepflegt.
@@ -8,14 +8,14 @@
 
 export const client = {
   // ── Allgemein ──────────────────────────────────────────────────────────────
-  name: "AllroundMove",
+  name: "Musterwerkstatt Demo GmbH",
   branche: "",
   ort: "Warendorf",
   slogan: "professionell & zuverlässig",
-  adresse: "Nordfeld 14, 48231 Warendorf",
+  adresse: "Musterstraße 1",
   maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJjblDk4ebuUcRMWbnDAR7K2s",
-  telefon: "01520 7378376",
-  email: "",
+  telefon: "+49 2581 000000",
+  email: "info@musterwerkstatt-demo.de",
   website: "",
   logo: "https://r2.kuwezu.de/cdn-cgi/image/width=320,fit=contain,quality=78,format=auto/konzepte/autofit/autofit_logo.webp",
   standort_bild: "https://r2.kuwezu.de/cdn-cgi/image/width=1024,fit=cover,quality=78,format=auto/kunden/248/standort.webp",
@@ -44,7 +44,7 @@ export const client = {
     bild: "https://r2.kuwezu.de/cdn-cgi/image/width=1280,fit=cover,quality=78,format=auto/kunden/248/1784450684296-oldtimer_lenkrad.jpg",
     bildSrcset: "https://r2.kuwezu.de/cdn-cgi/image/width=640,fit=cover,quality=78,format=auto/kunden/248/1784450684296-oldtimer_lenkrad.jpg 640w, https://r2.kuwezu.de/cdn-cgi/image/width=1024,fit=cover,quality=78,format=auto/kunden/248/1784450684296-oldtimer_lenkrad.jpg 1024w, https://r2.kuwezu.de/cdn-cgi/image/width=1536,fit=cover,quality=78,format=auto/kunden/248/1784450684296-oldtimer_lenkrad.jpg 1536w",
     bildSizes: "(max-width: 1024px) 100vw, 50vw",
-    ueberschrift: "AllroundMove — Ihr Partner in Warendorf",
+    ueberschrift: "Musterwerkstatt Demo GmbH — Ihr Partner in Warendorf",
     text1: "Als erfahrener -Betrieb in Warendorf bieten wir unseren Kunden seit Jahren zuverlässigen Service und kompetente Beratung. Mit Fachkompetenz und modernen Methoden lösen wir Ihre Anliegen effizient und zuverlässig.",
     text2: "Wir setzen auf höchste Qualität, transparente Preise und persönlichen Service — damit Sie rundum zufrieden sind.",
     tags: ["Qualität", "Zuverlässigkeit", "Faire Preise", "Erfahrung"],
